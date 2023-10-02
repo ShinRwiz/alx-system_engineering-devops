@@ -1,2 +1,2 @@
 #!/bin/bash
-cut -c 1 0-hello_world |paste -s -d ""
+cut -c 1 |paste -s -d ""
