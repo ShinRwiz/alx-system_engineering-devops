@@ -1,3 +1,6 @@
+SFTP Guide
+
+
 sftp username@hostname
 
 mkdir /root/alx-system_engineering-devops/command_line_for_the_win/
