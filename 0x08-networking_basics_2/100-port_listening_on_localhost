@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# spy on 98
+
+nc -l 98
