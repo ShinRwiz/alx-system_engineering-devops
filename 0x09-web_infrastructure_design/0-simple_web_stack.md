@@ -3,11 +3,11 @@
 ![Image of a simple web stack](0-simple_web_stack.png)
 
 
-## Description
+## Overview
 
-This is a simple web infrastructure that hosts a website that is reachable via `www.foobar.com`. There are no firewalls or SSL certificates for protecting the server's network. Each component (database, application server) has to share the resources (CPU, RAM, and SSD) provided by the server.
+This depicts a basic web infrastructure responsible for hosting a website accessible through www.foobar.com. The setup lacks firewalls or SSL certificates to safeguard the server's network. Resources like CPU, RAM, and SSD are shared among the components (database, application server) hosted on the server.
 
-## Specifics About This Infrastructure
+## Key Details About This Infrastructure
 
 + What a server is.<br/>A server is a computer hardware or software that provides services to other computers, which are usually referred to as *clients*.
 
